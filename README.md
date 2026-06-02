@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
+Nama : [Benjamin Sigit]  
+NIU : [514737]  
 Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Secret String : [4d62d2829be888dec1ab3295d231ec1993acb43becff2923191f5178919e424320260602022223]
 
 ## Checklist Responsi
 
